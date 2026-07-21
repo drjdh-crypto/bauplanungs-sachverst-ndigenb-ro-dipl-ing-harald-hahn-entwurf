@@ -1,5 +1,5 @@
 {
-  "version": "10.0-brand-content-fidelity",
+  "version": "11.0-composition-engine",
   "archetype": "institutional-modern",
   "layout_family": "proof-first",
   "composition": {
@@ -4074,11 +4074,11 @@
           ]
         },
         {
-          "file": "images/018-index-451edf88.png",
+          "file": "images/018-index-66cba629.png",
           "role": "hero",
           "width": 160,
           "height": 32,
-          "source_url": "https://www.energieberatung-landkreiskassel.de/index.php?option=com_proforms&cpta=5&uidx=0&rand=6a5fd77b5ad7d",
+          "source_url": "https://www.energieberatung-landkreiskassel.de/index.php?option=com_proforms&cpta=5&uidx=0&rand=6a5fe0cce302e",
           "found_on": [
             "https://www.energieberatung-landkreiskassel.de/index.php/component/proforms/kontaktformular?Itemid=121"
           ]
