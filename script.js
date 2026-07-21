@@ -1,1 +1,1 @@
-document.querySelector('[data-year]').textContent=new Date().getFullYear();
+const y=document.querySelector('[data-year]');if(y)y.textContent=new Date().getFullYear();
