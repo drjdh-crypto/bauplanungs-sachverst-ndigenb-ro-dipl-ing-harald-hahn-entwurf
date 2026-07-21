@@ -1,0 +1,407 @@
+{
+  "version": "10.0-brand-content-fidelity",
+  "source_url": "https://www.energieberatung-landkreiskassel.de/index.php",
+  "site_type": "onepager",
+  "company_name": "Bauplanungs- & Sachverständigenbüro - Dipl.-Ing. Harald Hahn",
+  "industry": "Energieberatung",
+  "archetype": "institutional-modern",
+  "sections": [
+    "hero",
+    "services",
+    "trust",
+    "references",
+    "team",
+    "process",
+    "about",
+    "contact"
+  ],
+  "primary_cta": "Kontakt aufnehmen",
+  "services": [
+    "Energieausweis",
+    "Architekturleistung",
+    "Energieberatung",
+    "Fördermaßnahmen",
+    "Heizungsoptimierung",
+    "Luftdichtheit",
+    "Thermografie",
+    "Planungsleistung",
+    "Art und Höhe der Förderung",
+    "Luftdichtheit – für die Bauschadensfreiheit",
+    "Luftdichtheit und Blower-Door Messung im Baurecht:",
+    "Thermografie zeigt Schwachstellen im Gebäudebestand:"
+  ],
+  "brand_palette": {
+    "primary": "#398BC3",
+    "secondary": "#E8EEEC",
+    "accent": "#378CC3",
+    "background": "#F7F8F6",
+    "surface": "#FFFFFF",
+    "text": "#172126",
+    "border": "#D4DAD7",
+    "muted": "#68757A",
+    "hover": "#378CC3",
+    "confidence": 0.82,
+    "source": "images/001-logo2-11a3eb85.jpg"
+  },
+  "palette_strategy": "preserve_primary_modernize_rest",
+  "image_strategy": {
+    "logo": {
+      "file": "images/001-logo2-11a3eb85.jpg",
+      "role": "logo",
+      "width": 300,
+      "height": 359,
+      "source_url": "https://www.energieberatung-landkreiskassel.de/images/logo2.jpg",
+      "found_on": [
+        "https://www.energieberatung-landkreiskassel.de/index.php",
+        "https://www.energieberatung-landkreiskassel.de/index.php/architekturleistung",
+        "https://www.energieberatung-landkreiskassel.de/index.php/kontaktformular",
+        "https://www.energieberatung-landkreiskassel.de/index.php/referenzen",
+        "https://www.energieberatung-landkreiskassel.de/index.php/wir-ueber-uns",
+        "https://www.energieberatung-landkreiskassel.de/index.php/aktuelles",
+        "https://www.energieberatung-landkreiskassel.de/index.php/anfahrt",
+        "https://www.energieberatung-landkreiskassel.de/index.php/energieausweis",
+        "https://www.energieberatung-landkreiskassel.de/index.php/energieberatung",
+        "https://www.energieberatung-landkreiskassel.de/index.php/foerdermassnahmen",
+        "https://www.energieberatung-landkreiskassel.de/index.php/heizungsoptimierung",
+        "https://www.energieberatung-landkreiskassel.de/index.php/component/proforms/kontaktformular?Itemid=121",
+        "https://www.energieberatung-landkreiskassel.de/index.php/luftdichtheit",
+        "https://www.energieberatung-landkreiskassel.de/index.php/thermografie",
+        "https://www.energieberatung-landkreiskassel.de/"
+      ]
+    },
+    "hero": {
+      "file": "images/002-image584-96f52465.jpg",
+      "role": "hero",
+      "width": 528,
+      "height": 353,
+      "source_url": "https://www.energieberatung-landkreiskassel.de/images/image584.jpg",
+      "found_on": [
+        "https://www.energieberatung-landkreiskassel.de/index.php",
+        "https://www.energieberatung-landkreiskassel.de/"
+      ]
+    },
+    "references": [
+      {
+        "file": "images/004-image831-8ee286ac.jpg",
+        "role": "reference",
+        "width": 448,
+        "height": 167,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image831.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/005-image842-6c2b4da6.jpg",
+        "role": "reference",
+        "width": 556,
+        "height": 161,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image842.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/006-image827-93a1d2fd.jpg",
+        "role": "reference",
+        "width": 556,
+        "height": 161,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image827.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/007-image631-2104c10f.jpg",
+        "role": "reference",
+        "width": 552,
+        "height": 414,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image631.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/008-image1153-91b5ebb0.jpg",
+        "role": "reference",
+        "width": 552,
+        "height": 405,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image1153.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      }
+    ],
+    "portraits": [],
+    "usable": [
+      {
+        "file": "images/001-logo2-11a3eb85.jpg",
+        "role": "logo",
+        "width": 300,
+        "height": 359,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/logo2.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php",
+          "https://www.energieberatung-landkreiskassel.de/index.php/architekturleistung",
+          "https://www.energieberatung-landkreiskassel.de/index.php/kontaktformular",
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen",
+          "https://www.energieberatung-landkreiskassel.de/index.php/wir-ueber-uns",
+          "https://www.energieberatung-landkreiskassel.de/index.php/aktuelles",
+          "https://www.energieberatung-landkreiskassel.de/index.php/anfahrt",
+          "https://www.energieberatung-landkreiskassel.de/index.php/energieausweis",
+          "https://www.energieberatung-landkreiskassel.de/index.php/energieberatung",
+          "https://www.energieberatung-landkreiskassel.de/index.php/foerdermassnahmen",
+          "https://www.energieberatung-landkreiskassel.de/index.php/heizungsoptimierung",
+          "https://www.energieberatung-landkreiskassel.de/index.php/component/proforms/kontaktformular?Itemid=121",
+          "https://www.energieberatung-landkreiskassel.de/index.php/luftdichtheit",
+          "https://www.energieberatung-landkreiskassel.de/index.php/thermografie",
+          "https://www.energieberatung-landkreiskassel.de/"
+        ]
+      },
+      {
+        "file": "images/002-image584-96f52465.jpg",
+        "role": "hero",
+        "width": 528,
+        "height": 353,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image584.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php",
+          "https://www.energieberatung-landkreiskassel.de/"
+        ]
+      },
+      {
+        "file": "images/004-image831-8ee286ac.jpg",
+        "role": "reference",
+        "width": 448,
+        "height": 167,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image831.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/005-image842-6c2b4da6.jpg",
+        "role": "reference",
+        "width": 556,
+        "height": 161,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image842.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/006-image827-93a1d2fd.jpg",
+        "role": "reference",
+        "width": 556,
+        "height": 161,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image827.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/007-image631-2104c10f.jpg",
+        "role": "reference",
+        "width": 552,
+        "height": 414,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image631.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/008-image1153-91b5ebb0.jpg",
+        "role": "reference",
+        "width": 552,
+        "height": 405,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image1153.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/referenzen"
+        ]
+      },
+      {
+        "file": "images/009-gih---034-53666b1a.jpg",
+        "role": "hero",
+        "width": 3862,
+        "height": 2832,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/GIH_-_034.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/wir-ueber-uns"
+        ]
+      },
+      {
+        "file": "images/010-170315-logokreis-mit-vereinsbezeichnung-a4020311.png",
+        "role": "logo",
+        "width": 842,
+        "height": 595,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/__170315_Logokreis-mit-Vereinsbezeichnung.png",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/wir-ueber-uns"
+        ]
+      },
+      {
+        "file": "images/011-image628-e3f7705e.jpg",
+        "role": "content",
+        "width": 276,
+        "height": 205,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image628.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/aktuelles"
+        ]
+      },
+      {
+        "file": "images/012-image531-539af169.jpg",
+        "role": "content",
+        "width": 280,
+        "height": 404,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image531.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/energieausweis"
+        ]
+      },
+      {
+        "file": "images/013-image539-845c39a7.jpg",
+        "role": "content",
+        "width": 300,
+        "height": 300,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image539.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/energieausweis"
+        ]
+      },
+      {
+        "file": "images/014-image4691-319b9970.jpg",
+        "role": "content",
+        "width": 341,
+        "height": 263,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image4691.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/energieberatung"
+        ]
+      },
+      {
+        "file": "images/015-image4031-4a23bd39.jpg",
+        "role": "content",
+        "width": 421,
+        "height": 399,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image4031.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/energieberatung"
+        ]
+      },
+      {
+        "file": "images/016-image10201-63582a12.png",
+        "role": "hero",
+        "width": 325,
+        "height": 214,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image10201.png",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/heizungsoptimierung"
+        ]
+      },
+      {
+        "file": "images/017-image10221-6fe655e3.jpg",
+        "role": "content",
+        "width": 346,
+        "height": 525,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image10221.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/heizungsoptimierung"
+        ]
+      },
+      {
+        "file": "images/018-index-451edf88.png",
+        "role": "hero",
+        "width": 160,
+        "height": 32,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/index.php?option=com_proforms&cpta=5&uidx=0&rand=6a5fd77b5ad7d",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/component/proforms/kontaktformular?Itemid=121"
+        ]
+      },
+      {
+        "file": "images/019-captchareload-81a6303f.png",
+        "role": "content",
+        "width": 26,
+        "height": 26,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/components/com_proforms/images/captchareload.png",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/component/proforms/kontaktformular?Itemid=121"
+        ]
+      },
+      {
+        "file": "images/020-image875-e01bb81b.jpg",
+        "role": "content",
+        "width": 347,
+        "height": 352,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image875.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/luftdichtheit"
+        ]
+      },
+      {
+        "file": "images/021-image885-0b96f423.jpg",
+        "role": "content",
+        "width": 213,
+        "height": 324,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image885.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/luftdichtheit"
+        ]
+      },
+      {
+        "file": "images/022-image569-ab3bbfc8.jpg",
+        "role": "hero",
+        "width": 556,
+        "height": 209,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image569.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/thermografie"
+        ]
+      },
+      {
+        "file": "images/023-image561-7b3b7ea7.jpg",
+        "role": "hero",
+        "width": 556,
+        "height": 208,
+        "source_url": "https://www.energieberatung-landkreiskassel.de/images/image561.jpg",
+        "found_on": [
+          "https://www.energieberatung-landkreiskassel.de/index.php/thermografie"
+        ]
+      }
+    ],
+    "usage_target": 7
+  },
+  "content_fidelity": {
+    "references_present": true,
+    "service_count": 12,
+    "image_count": 23,
+    "usable_image_count": 22
+  },
+  "design_rules": [
+    {
+      "name": "reference-energy-consulting",
+      "path": "app/knowledge/design-system/seeded/reference-energy-consulting.md",
+      "excerpt": "--- approved_by_user: true industries: [energy consulting, renovation] reference: kaminkehrermeister-forster.de/energieberatung --- # Energy Consulting Structure Persönliche Vorstellung, verständliche Leistungserklärung, Vertrauensaufbau, klarer Projektablauf und direkte Kontaktführung. Struktur übernehmen, visuelle Gestaltung modernisieren und schwache Formulierungen verbessern."
+    },
+    {
+      "name": "reference-psm-ingenieure",
+      "path": "app/knowledge/design-system/seeded/reference-psm-ingenieure.md",
+      "excerpt": "--- approved_by_user: true industries: [engineering, architecture] reference: psmingenieure.de --- # Engineering UX Reference Stärken: moderne UX, hochwertige Projektinszenierung, klare visuelle Hierarchie, großzügige Bildflächen, reduzierte Navigation und ruhige Interaktionen. Referenzen und Projekte früh zeigen. Geeignet für Ingenieur-, Architektur- und Planungsbüros."
+    },
+    {
+      "name": "jonas-design-principles",
+      "path": "app/knowledge/design-system/seeded/jonas-design-principles.md",
+      "excerpt": "--- approved_by_user: true scope: global source: accumulated-user-feedback --- # Jonas Design Principles - Entwürfe müssen sich strukturell unterscheiden; reine Farbvarianten zählen nicht als Varianz. - Keine generische WordPress- oder Baukastenoptik. - Runde Standardkarten nicht als Default verwenden. - Seriös, modern, hochwertig und klar; Animationen dezent und funktional. - Kein dauernd wiederholtes Standardmuster „Text links, Bild rechts“. - Große Typografie, starke visuelle Hierarchie und großzügiger Weißraum sind erwünscht. - Branchenlogik entscheidet über Reihenfolge, Bildsprache, CTA und Vertrauenselemente. - Entwürfe bleiben mit noindex/nofollow geschützt, bis sie live gehen."
+    },
+    {
+      "name": "reference-ing-ka-hero",
+      "path": "app/knowledge/design-system/seeded/reference-ing-ka-hero.md",
+      "excerpt": "--- approved_by_user: true industries: [engineering, consulting] reference: ing-ka.de --- # Rotating Service Hero Hero mit wechselnden Leistungsbegriffen. Bewegung ruhig und typografisch präzise. Als Akzent nutzen, nicht als hektischen Slider. Gut für komplexe Dienstleistungsportfolios."
+    }
+  ],
+  "publishing": {
+    "noindex": true,
+    "provider": "github-pages"
+  }
+}
