@@ -1,0 +1,58 @@
+{
+  "version": "11.0-composition-engine",
+  "seed": "0eb3a7e878bb22ed",
+  "archetype": "institutional-modern",
+  "direction": "credible, structured, contemporary",
+  "density": "generous",
+  "navigation": {
+    "variant": "index_header",
+    "sticky": true
+  },
+  "hero": {
+    "variant": "architectural_index",
+    "image_required": false,
+    "cta_mode": "primary-secondary"
+  },
+  "sections": {
+    "services": {
+      "variant": "numbered_index"
+    },
+    "references": {
+      "variant": "masonry_gallery"
+    },
+    "about": {
+      "variant": "editorial_profile"
+    },
+    "contact": {
+      "variant": "split_contact"
+    },
+    "trust": {
+      "variant": "fact_band"
+    },
+    "process": {
+      "variant": "step_rail"
+    },
+    "team": {
+      "variant": "profile_grid"
+    }
+  },
+  "section_order": [
+    "hero",
+    "services",
+    "trust",
+    "process",
+    "references",
+    "about",
+    "team",
+    "contact"
+  ],
+  "fallback": {
+    "enabled": true,
+    "renderer": "legacy_v10"
+  },
+  "capabilities": {
+    "hero_image": true,
+    "portrait": false,
+    "references": true
+  }
+}
